@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello GitHub!");
+    printf("Git is very easy.");
     return 0;
 }
