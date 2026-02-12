@@ -4,6 +4,6 @@
 int main()
 {
     printf("Hello GitHub!");
-    printf("Learning git is easy.");
+    printf("This change is from feature branch.");
     return 0;
 }
